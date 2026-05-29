@@ -144,6 +144,6 @@ After sending a message in a test, verify delivery via the [Mailexam API](https:
 
 ## See also
 
-- [Mailexam Fastify guide (wiki)](https://github.com/mailexam/wiki/blob/main/docs/en/examples/fastify.md)
+- [Mailexam Fastify guide (wiki)](https://wiki.mailexam.ru/en/examples/fastify/)
 - [Fastify documentation](https://fastify.dev/docs/latest/)
 - [Nodemailer documentation](https://nodemailer.com/)
