@@ -2,7 +2,7 @@
 
 Minimal [Fastify](https://fastify.dev/) example that sends test mail through [Mailexam](https://mailexam.ru/) SMTP via [Nodemailer](https://nodemailer.com/).
 
-Based on the [Mailexam Fastify guide](https://github.com/mailexam/wiki/blob/main/docs/en/examples/fastify.md).
+Based on the [Mailexam Fastify guide](https://wiki.mailexam.ru/en/examples/fastify/).
 
 ## What you need
 
