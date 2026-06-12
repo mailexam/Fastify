@@ -149,3 +149,7 @@ After sending a message in a test, verify delivery via the [Mailexam API](https:
 - [FastAPI reference implementation](https://github.com/mailexam/FastAPI) — Python, not Node.js
 - [Fastify documentation](https://fastify.dev/docs/latest/)
 - [Nodemailer documentation](https://nodemailer.com/)
+
+## License
+
+Apache 2.0
